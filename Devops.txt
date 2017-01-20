@@ -4,3 +4,7 @@ change from hotproductionfix
 hello dev
 
 123
+
+hello devops
+
+Updates for next sessions.
